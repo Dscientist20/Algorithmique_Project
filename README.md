@@ -1,3 +1,14 @@
+[![Build Status](https://travis-ci.com/vrunge/M2algorithmique.svg?branch=main)](https://travis-ci.com/vrunge/M2Algorithmique)
+
+# M2algorithmique Vignette
+
+### Vincent Runge
+
+#### LaMME, Evry Paris-Saclay University
+
+### November 3, 2020
+
+
 # Project
 ruptures detection Algorithms
 # Package installation
