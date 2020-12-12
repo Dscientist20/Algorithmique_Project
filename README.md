@@ -1,12 +1,12 @@
 [![Build Status](https://travis-ci.com/Dscientist20/Project.svg?branch=main)](https://travis-ci.com/Dscientist20/Project)
 
-# M2algorithmique Vignette
+# Projet : Ruptures detection Algorithms
 
-### Vincent Runge
+### Group 8
 
-#### LaMME, Evry Paris-Saclay University
+#### Data Science, Evry Paris-Saclay University
 
-### November 3, 2020
+### December 12, 2020
 
 
 # Project
