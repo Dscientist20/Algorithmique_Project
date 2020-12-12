@@ -7,7 +7,17 @@
 #### Data Science, Evry Paris-Saclay University
 
 ### December 12, 2020
+> [Quick Start](#qs)
 
+> [The 4 algorithms at fixed data length](#com)
+
+> [Microblenchmark](#micro)
+
+> [Time complexity](#time)
+
+<a id="qs"></a>
+
+## Quick Start
 
 # Project
 ruptures detection Algorithms
