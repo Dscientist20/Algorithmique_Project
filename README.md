@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/vrunge/M2algorithmique.svg?branch=main)](https://travis-ci.com/vrunge/M2Algorithmique)
+[![Build Status](https://travis-ci.com/Dscientist20/Project.svg?branch=main)](https://travis-ci.com/Dscientist20/Project)
 
 # M2algorithmique Vignette
 
