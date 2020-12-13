@@ -7,11 +7,9 @@
 #### Data Science, Evry Paris-Saclay University
 
 ### December 12, 2020
-> [Quick Start](#qs)
+> [Introduction](#qs)
 
-> [The 4 algorithms at fixed data length](#com)
-
-> [Microblenchmark](#micro)
+> [The 2 algorithms](#com)
 
 > [Time complexity](#time)
 
@@ -24,5 +22,6 @@ ruptures detection Algorithms
 # Package installation
 You first need to install the devtools package, it can be done easily from Rstudio. We install the package from Github (remove the # sign):
 
-#devtools::install_github("vrunge/M2algorithmique")
-library(M2algorithmique)
+#devtools::install_github("tungle92/Project_Algorithms")
+library(Algo)
+
