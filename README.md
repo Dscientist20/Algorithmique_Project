@@ -33,7 +33,7 @@ Details on the Ruptures detection can be found on [its wikipedia page](https://f
 # Package installation :
 You first need to install the devtools package, it can be done easily from Rstudio. We install the package from Github :
 
-devtools::install_github("tungle92/Project_Algorithms")
+devtools::install_github("Dscientist20/Project")
 
 library(Algo)
 
